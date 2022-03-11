@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Base de Datos</string>
+    <string name="maintitle">Bienvenido a la base de datos, ¿qué desea hacer?</string>
+    <string name="conbtn">Consultar</string>
+    <string name="anbtn">Añadir</string>
+    <string name="contitle">Inserte la ID de la actividad</string>
+    <string name="antitle">Inserte los datos que desee agregar</string>
+    <string name="data">Datos</string>
+    <string name="campo1">ID</string>
+    <string name="campo2">Fecha</string>
+    <string name="campo3">Asunto</string>
+    <string name="campo4">Actividad</string>
+    <string name="subbtn">Enviar</string>
+</resources>
